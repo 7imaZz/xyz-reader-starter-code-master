@@ -1,10 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:1-48:12
-INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:1-48:12
-INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:1-48:12
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:1-49:12
 MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\805a63f73d908fd7ffb404cb47a1d665\legacy-support-v13-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\1d93c655cdcaa19a3180f48e63f30b3d\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\f5bdf8930f5b0dade80802408310dda6\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.palette:palette:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\76a973bed46a74a5c1dd25b9ef070c08\palette-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\99839343cfb353ec06147cc6109cf9b2\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -15,6 +16,7 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Jorbgy\.g
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\df9a84c4655b7cf6fd3ecff2821fd9d3\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\a44642c3bddc1cd9ae77529ce5394be3\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\3d66247cb3e229dc7753f5f4d3b35b4b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\4ea847ccfe34de0657fc7a139eae5de8\transition-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\de3b4aff63e255359d6d83ac6fbdaff5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\7ae8c1d65b7331eeb350edf91287a16c\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\cbfe81a657ef2afb513a6ca64388f844\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -38,38 +40,42 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Jorbgy\.gradle\cache
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\e7284bace20bec096294b5474e153fbf\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\c073c929da6ad4e112abaac7d3212747\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:1-48:12
-INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:1-49:12
 	package
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:2:5-36
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:3:5-36
 	android:versionName
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:4:5-30
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml
 		INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:2:5-51
 	xmlns:android
 		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:3:5-28
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml
 		INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:6:5-67
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:6:22-64
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:7:5-81
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:7:22-78
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:8:22-78
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:8:5-75
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:9:5-75
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:8:22-72
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:9:22-72
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:9:5-79
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:9:22-76
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:10:22-76
 application
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:11:5-46:19
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:12:5-47:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.core:core:1.1.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\9a29ee90fd211f611caccd9d338a3e44\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
@@ -77,69 +83,71 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jo
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:14:9-41
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:13:9-43
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:12:9-35
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:15:9-43
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:16:9-43
 activity#com.example.xyzreader.ui.ArticleListActivity
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:17:9-24:20
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:18:9-25:20
 	android:label
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:19:13-45
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:20:13-45
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:18:13-51
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:19:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:20:13-23:29
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:21:13-24:29
 action#android.intent.action.MAIN
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:21:17-69
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:21:25-66
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:22:17-77
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:22:27-74
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:23:27-74
 activity#com.example.xyzreader.ui.ArticleDetailActivity
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:26:9-37:20
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:27:9-38:20
 	android:parentActivityName
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:28:13-65
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:29:13-65
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:27:13-53
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:28:13-53
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:30:13-34:29
+	tools:ignore
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:30:28-58
 action#android.intent.action.VIEW
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:30:17-69
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:30:25-66
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.DEFAULT
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:31:17-76
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:32:17-76
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:31:27-73
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:32:27-73
 data
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:32:17-100
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:33:17-100
 	android:mimeType
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:32:23-97
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:33:23-97
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:34:13-36:59
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:35:13-37:59
 	android:value
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:36:17-56
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:37:17-56
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:35:17-63
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:36:17-63
 service#com.example.xyzreader.data.UpdaterService
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:39:9-40:40
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:40:9-41:40
 	android:exported
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:40:13-37
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:41:13-37
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:39:18-53
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:40:18-53
 provider#com.example.xyzreader.data.ItemsProvider
-ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:42:9-44:40
+ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:43:9-45:40
 	android:authorities
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:43:13-56
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:44:13-56
 	android:exported
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:44:13-37
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:45:13-37
 	android:name
-		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:42:19-53
+		ADDED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:43:19-53
 uses-sdk
 INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\Android\Udacity Projects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml
@@ -148,6 +156,8 @@ MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\Jorbgy\.gradle\c
 MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\805a63f73d908fd7ffb404cb47a1d665\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\1d93c655cdcaa19a3180f48e63f30b3d\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\1d93c655cdcaa19a3180f48e63f30b3d\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\f5bdf8930f5b0dade80802408310dda6\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\f5bdf8930f5b0dade80802408310dda6\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.palette:palette:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\76a973bed46a74a5c1dd25b9ef070c08\palette-1.0.0\AndroidManifest.xml:20:5-44
@@ -168,6 +178,8 @@ MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Jorbgy\.grad
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\a44642c3bddc1cd9ae77529ce5394be3\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\3d66247cb3e229dc7753f5f4d3b35b4b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\3d66247cb3e229dc7753f5f4d3b35b4b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\4ea847ccfe34de0657fc7a139eae5de8\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\4ea847ccfe34de0657fc7a139eae5de8\transition-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\de3b4aff63e255359d6d83ac6fbdaff5\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\de3b4aff63e255359d6d83ac6fbdaff5\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Jorbgy\.gradle\caches\transforms-2\files-2.1\7ae8c1d65b7331eeb350edf91287a16c\viewpager-1.0.0\AndroidManifest.xml:20:5-44

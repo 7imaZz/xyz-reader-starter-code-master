@@ -14,6 +14,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Jorbgy\\.gradle\\caches\\transforms-2\\files-2.1\\9ee5da6fca20f6f07dce6c73fc4ca33a\\material-1.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "374",
+                        "endLines": "10",
+                        "endColumns": "10",
+                        "endOffsets": "541"
+                    }
+                },
+                {
                     "source": "F:\\Android\\Udacity Projects\\xyz-reader-starter-code-master\\XYZReader\\src\\main\\res\\values-land\\macro_layout.xml",
                     "from": {
                         "startLines": "3,2",
